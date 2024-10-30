@@ -17,6 +17,16 @@ public class day4 {
 		
 	}
 	
+
+
+	@Test(groups={"Smoke"})
+	public void MobileLoginHomeLoan1()
+	{
+		//Appium
+		System.out.println("MobileloginHome");
+	
+	}
+	
 	
 	@Test(groups={"Smoke"})
 	public void MobileLoginHomeLoan()
